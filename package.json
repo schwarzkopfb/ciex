@@ -1,0 +1,38 @@
+{
+  "name": "ciex",
+  "version": "1.0.0",
+  "description": "Execute unit tests against multiple Node versions automatically.",
+  "main": "lib/cli.js",
+  "bin": "lib/cli.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "cpr": "^2.2.0",
+    "mkdirp": "^0.5.1",
+    "nave": "^2.2.3",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarzkopfb/ciex.git"
+  },
+  "keywords": [
+    "execute",
+    "node",
+    "test",
+    "multiple",
+    "version",
+    "travis",
+    "yml",
+    "automatically"
+  ],
+  "author": "Schwarzkopf Balazs <schwarzkopfb@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwarzkopfb/ciex/issues"
+  },
+  "homepage": "https://github.com/schwarzkopfb/ciex#readme"
+}
