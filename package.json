@@ -1,7 +1,7 @@
 {
   "name": "ciex",
   "version": "1.0.0",
-  "description": "Execute unit tests against multiple Node versions automatically.",
+  "description": "Execute your CI suite locally",
   "main": "lib/cli.js",
   "bin": "lib/cli.js",
   "dependencies": {
