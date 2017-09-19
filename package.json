@@ -9,6 +9,8 @@
     "cpr": "^2.2.0",
     "mkdirp": "^0.5.1",
     "nave": "^2.2.3",
+    "nopt": "^4.0.1",
+    "rimraf": "^2.6.2",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {},
@@ -27,6 +29,11 @@
     "version",
     "travis",
     "yml",
+    "ci",
+    "continous",
+    "integration",
+    "suite",
+    "local",
     "automatically"
   ],
   "author": "Schwarzkopf Balazs <schwarzkopfb@icloud.com>",
